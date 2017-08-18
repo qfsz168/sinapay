@@ -1,0 +1,33 @@
+{
+    "name": "qfsz168/sinapay",
+    "description": "新浪支付类",
+    "type": "project",
+    "keywords": [
+        "sinapay",
+        "thinkphp"
+    ],
+    "homepage": "http://qfsz168.top/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "qfsz168",
+            "email": "qfsz168@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "topthink/framework": "^5.0"
+    },
+    "extra": {
+        "think-path": "thinkphp"
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
